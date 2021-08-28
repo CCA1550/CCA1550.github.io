@@ -100,3 +100,12 @@ article .transverse_button .button_traffic button {
 	border: 10px solid white;
 	border-radius: 20px;
 }
+footer {
+	background-color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+footer p {
+	color: lightgray;
+	text-align: center;
+}

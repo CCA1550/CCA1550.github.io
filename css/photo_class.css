@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	list-style: none;
+}
+header {
+	height: 61px;
+}
+header .nav {
+	position: relative;
+	height: 60px;
+}
+header .nav h1 {
+	position: absolute;
+	float: left;
+	padding-top: 5px;
+	padding-left: 20px;
+	font-size: 40px;
+}
+header nav ul {
+	position: absolute;
+	right: 10px;
+	width: 400px;
+	height: 60px;
+	/* float: left; */
+}
+header nav ul li {
+	float: left;
+	width: 25%;
+	padding: 5px;
+	font-size: 30px;
+}
+body article {
+	background-color: #D3D3D3;
+	text-align: center;
+}
+body article p {
+	font-size: 30px;
+	font-family: "Arial"," microsoft yahei";
+}
+footer {
+	background-color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+footer p {
+	color: lightgray;
+	text-align: center;
+}
