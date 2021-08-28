@@ -1,0 +1,95 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	list-style: none;
+}
+p {
+	font-family: "华文中宋 常规", "microsoft yahei";
+	font-weight: bold;
+}
+body article{
+	background-color: #dfe4ea;
+}
+header {
+	height: 61px;
+}
+header .nav {
+	position: relative;
+	height: 60px;
+}
+header .nav h1 {
+	position: absolute;
+	float: left;
+	padding-top: 5px;
+	padding-left: 20px;
+	font-size: 40px;
+}
+header nav ul {
+	position: absolute;
+	right: 10px;
+	width: 400px;
+	height: 60px;
+	/* float: left; */
+}
+header nav ul li {
+	float: left;
+	width: 25%;
+	padding: 5px;
+	font-size: 30px;
+}
+article .content {
+	position: relative;
+	padding-top: 40px;
+	height: 800px;
+}
+article .card {
+	position: absolute;
+	width: 400px;
+	height: 480px;
+	left: 10%;
+	border: 4px solid black;
+}
+article .card .head {
+	float: left;
+	width: 200px;
+	height: 290px;
+	border: 4px solid black;
+}
+article .card .head img {
+	/* padding-top: 2px; */
+	width: 198px;
+	height: 288px;
+}
+article .card .msg1 {
+	float: left;
+	width: 150px;
+	padding-left: 20px;
+	font-size: 25px;
+}
+article .card .msg2 {
+	width: 380px;
+	padding-top: 320px;
+	padding-left: 10px;
+	font-size: 25px;
+}
+article .essay {
+	position: absolute;
+	width: 400px;
+	height: 700px;
+	left: 50%;
+	border: 4px solid black;
+}
+article .essay .essay_title{
+	width: 80px;
+	height: 40px;
+	border: 4px solid black;
+}
+footer {
+	background-color: #fff;
+	padding-top: 20px;
+}
+footer p {
+	color: lightgray;
+	text-align: center;
+}

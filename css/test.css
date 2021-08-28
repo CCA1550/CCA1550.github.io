@@ -1,0 +1,23 @@
+body {
+	background-color: #D3D3D3;
+}
+.big {
+	position: relative;
+	width: 500px;
+	height: 500px;
+	border: 5px solid black;
+}
+.small1 {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 10%;
+	border: 5px solid black;
+}
+.small2 {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 50%;
+	border: 5px solid black;
+}
