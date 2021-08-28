@@ -34,12 +34,12 @@ header nav ul li {
 body article{
 	background-color: #dfe4ea;
 }
-body a {
+body article a {
 	color: #f1f2f6;
 	text-shadow: black 3px 0 0;
 	text-decoration: none;
 }
-body a :hover {
+body article a :hover {
 	color: #70a1ff;
 }
 article .vertical_button h1 {
