@@ -1,0 +1,94 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	list-style: none;
+}
+html, body {
+	width: 100%;
+	height: 100%;
+}
+p {
+	font-family: "华文中宋 常规", "microsoft yahei";
+	font-weight: bold;
+}
+body article{
+	/* background-color: #dfe4ea; */
+	background-image: url(../img/blog_banner.png);
+	background-size: 90% 100%;
+	background-position: center center;
+	overflow: auto;
+}
+header {
+	height: 61px;
+}
+header .nav {
+	position: relative;
+	height: 60px;
+}
+header .nav h1 {
+	position: absolute;
+	float: left;
+	padding-top: 5px;
+	padding-left: 20px;
+	font-size: 40px;
+}
+header nav ul {
+	position: absolute;
+	right: 10px;
+	width: 400px;
+	height: 60px;
+	/* float: left; */
+}
+header nav ul li {
+	float: left;
+	width: 25%;
+	padding: 5px;
+	font-size: 30px;
+}
+article .content {
+	position: relative;
+	padding-top: 40px;
+	height: 750px;
+}
+article .menu {
+	position: absolute;
+	padding-left: 20px;
+}
+article .menu button{
+	width: 100px;
+	height: 40px;
+	border: 2px solid black;
+}
+article .menu button a {
+	color: #70A1FF;
+	text-decoration: none;
+}
+article .menu button a :hover {
+	color: #FFFFFF;
+}
+article .content .main_text {
+	position: absolute;
+	width: 1280px;
+	left: 15%;
+	border: 5px solid black;
+}
+article .content .main_text .back {
+	background: rgba(255, 255, 255, 0.4);
+}
+article .content .main_text .back h1 {
+	font-size: 30px;
+	font-weight: 600;
+	text-align: center;
+}
+article .content .main_text .back p {
+	font-size: 22px;
+}
+footer {
+	background-color: #fff;
+	padding-top: 20px;
+}
+footer p {
+	color: lightgray;
+	text-align: center;
+}
