@@ -4,7 +4,7 @@
 	重构摄影板块文件分类和命名方法
 	更正博客文章排列顺序问题
 	新增加载速度慢浏览器警示
-	新增50张摄影类作品
+	新增60余张摄影类作品
 	
 	Fix naming errors
 	Classification and naming method of reconstructed photographic plate files
