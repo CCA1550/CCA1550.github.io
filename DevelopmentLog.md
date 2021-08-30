@@ -1,3 +1,11 @@
+#### 2021/08、30
+	修复命名错误
+	更正博客文章排列顺序问题
+	新增加载速度慢浏览器警示
+	
+	Fix naming errors
+	Correct the ranking of blog posts
+	Add slow loading browser warning
 #### 2021/08/29
 
 ​	完成博客阅读器框架开发。替换头像为高清图像。
