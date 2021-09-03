@@ -77,9 +77,14 @@ article .content .main_text .back {
 	background: rgba(255, 255, 255, 0.4);
 }
 article .content .main_text .back h1 {
-	font-size: 30px;
+	font-size: 38px;
 	font-weight: 600;
 	text-align: center;
+}
+article .content .main_text .back h2 {
+	font-size: 28px;
+	font-weight: 600;
+	text-align: right;
 }
 article .content .main_text .back p {
 	font-size: 22px;
