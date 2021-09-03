@@ -1,8 +1,10 @@
 #### 2021/09/03
 	
+	修复跳转404bug
 	更正域名子链接命名方式
 	新增博客文章两篇
 	
+	Fix 404 Not Found bug when you switch the face
 	Corrected the naming of child routes
 	Add 2 blogs
 
