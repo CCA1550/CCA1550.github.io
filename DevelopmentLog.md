@@ -1,4 +1,4 @@
-#### 2021/08、30
+#### 2021/08/30
 
 	修复命名错误
 	重构摄影板块文件分类和命名方法
@@ -19,7 +19,7 @@
 ​	Complete the development of blog reader framework. Replace avatar with HD image.
 
 #### 2021/08/28
-
+ 
 ​	基本完成了网页前端的搭建，包括博客框架，摄影展示框架，但缺点是没有鲜明的风格。
 
 ​	Basically completed the construction of the front end of the web page, including blog 
