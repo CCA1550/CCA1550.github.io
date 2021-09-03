@@ -1,3 +1,11 @@
+#### 2021/09/03
+	
+	更正域名子链接命名方式
+	新增博客文章两篇
+	
+	Corrected the naming of child routes
+	Add 2 blogs
+
 #### 2021/08/30
 
 	修复命名错误
