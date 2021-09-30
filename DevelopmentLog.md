@@ -1,3 +1,9 @@
+#### 2021/10/01
+	
+	新增运动会摄影照片公布界面及子界面
+	
+	Add interface and sub interface for publishing photos of the Games 
+
 #### 2021/09/03
 	
 	修复跳转404bug
