@@ -1,9 +1,11 @@
 #### 2021/10/01
 	
 	新增运动会摄影照片公布界面及子界面
+	新增百度网盘、腾讯微云、以及直连下载方式
 	
 	Add interface and sub interface for publishing photos of the Games 
-
+	Add Baidu Netdisk, Tencent Weiyun and direct download methods
+	
 #### 2021/09/03
 	
 	修复跳转404bug
