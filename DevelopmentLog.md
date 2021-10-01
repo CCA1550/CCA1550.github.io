@@ -2,9 +2,13 @@
 	
 	新增运动会摄影照片公布界面及子界面
 	新增百度网盘、腾讯微云、以及直连下载方式
+	绑定新域名 cca1550.com
+	添加CloudFLare CDN和SSL
 	
 	Add interface and sub interface for publishing photos of the Games 
 	Add Baidu Netdisk, Tencent Weiyun and direct download methods
+	Bind the new domain name cca1550.com
+	Add cloudflere CDN and SSL
 	
 #### 2021/09/03
 	
