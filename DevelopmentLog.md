@@ -1,3 +1,10 @@
+#### 2021/10/30
+	重构index页面的样式表
+	手机端css代码正在开发中
+	
+	Refactoring the style sheet of the index page
+	Developing mobile teiminal style
+
 #### 2021/10/01
 	
 	新增运动会摄影照片公布界面及子界面

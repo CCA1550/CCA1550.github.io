@@ -1,3 +1,4 @@
+@media screen and (max-device-width: 400px) {  .left{ float:none;} }
 * {
 	margin: 0;
 	padding: 0;
@@ -5,66 +6,52 @@
 	list-style: none;
 }
 header {
-	height: 61px;
+	padding-left: 0.5rem;
+	padding-top: 0.625rem;
 }
-header .nav {
-	position: relative;
-	height: 60px;
-}
-header .nav h1 {
-	position: absolute;
+header .nav .title {
+	display: block;
+	width: 25rem;
+	height: 3.75rem;
+	font-size: 120%;
 	float: left;
-	padding-top: 5px;
-	padding-left: 20px;
-	font-size: 40px;
 }
-header nav ul {
-	position: absolute;
-	right: 10px;
-	width: 400px;
-	height: 60px;
-	/* float: left; */
+header .title {
+	display: block;
+	width: 100rem;
+	height: 3.75rem;
 }
-header nav ul li {
-	float: left;
-	width: 25%;
-	padding: 5px;
+header .nav .nav_list ul li{
+	padding-left: 0.9375rem;
 	font-size: 30px;
+	text-align: center;
+	float: right;
 }
-body article{
+header .nav .nav_list ul li a {
+	display: block;
+}
+article .back {
+	display: block;
+	width: 100%;
+	height: 56.25rem;
 	background-color: #dfe4ea;
+	text-align: center;
 }
 article .banner {
-	position: relative;
-	width: 1280px;
-	height: 720px;
+	display: block;
+	margin: 0 auto;
+	width: 80rem;
+	height: 46.25rem;
+	left: 50%;
 }
-article .img {
-	position: relative;
-	left: 25%;
-	width: 1280px;
-	height: 720px;
-}
-article .intro1 {
-	position: absolute;
-	top: 50px;
-	left: 350px;
-	width: 500px;
-	height: 200px;
-	font-size: 20px;
-}
-
-article .intro2 {
-	position: absolute;
-	top: 550px;
-	left: 1100px;
-	width: 650px;
-	height: 200px;
-	font-size: 20px;
+article .banner .img img {
+	display: inline-block;
+	height: auto;
+	max-width: 100%;
 }
 footer {
 	background-color: #fff;
-	padding-top: 20px;
+	padding-top: 1.25rem;
 }
 footer p {
 	color: lightgray;
