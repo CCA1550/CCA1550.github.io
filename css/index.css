@@ -1,4 +1,8 @@
-@media screen and (max-device-width: 400px) {  .left{ float:none;} }
+@media screen and (max-device-width: 400px) {
+	.left{
+		float:none;
+	}
+}
 * {
 	margin: 0;
 	padding: 0;
